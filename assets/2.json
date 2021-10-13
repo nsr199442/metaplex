@@ -1,0 +1,38 @@
+{
+    "name": "NFT2",
+    "symbol": "",
+    "description": "Best NFT",
+    "seller_fee_basis_points": 500,
+    "image": "image.png",
+ 
+    "attributes": [
+      {
+        "trait_type": "hand",
+        "value": "knif"
+      },
+      {
+        "trait_type": "holding",
+        "value": "apple"
+     }
+    ],
+    "collection": {
+       "name": "nft collection 1",
+       "family": "nft world"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+    
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "HjnWnXcgX4hEeffEcw2WX84FFtLRYto4jkdGK78vLe8Z",
+          "share": 100
+        }
+      ]
+    }
+  }
